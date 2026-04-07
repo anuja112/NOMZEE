@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=OnlineFoodApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.foodapp.service{UserService.java[UserService" modifiers="513" timestamp="1775529226799"/>
+    <typeInfo handle="=OnlineFoodApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.foodapp.service{RestaurantService.java[RestaurantService" modifiers="513" timestamp="1775529226764"/>
+    <typeInfo handle="=OnlineFoodApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.foodapp.service{FoodService.java[FoodService" modifiers="513" timestamp="1775529226783"/>
+    <typeInfo handle="=OnlineFoodApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.foodapp.service{CartService.java[CartService" modifiers="513" timestamp="1775529226749"/>
+    <typeInfo handle="=OnlineFoodApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.foodapp.service{OrderService.java[OrderService" modifiers="513" timestamp="1775529226793"/>
+</typeInfoHistroy>
